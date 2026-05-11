@@ -15,7 +15,7 @@ class Server {
   }
 
   rutas () {
-    this.app.use('/servicios', require('../routes/serviciosRoutes'))
+    this.app.use('/juegos', require('../routes/juegosRoutes'))
 
     // manejo de errores
     this.app.use((req, res, next) => {
@@ -32,7 +32,7 @@ class Server {
   }
 
   listen () {
-    this.app.listen(this.port, () => {
+    this.app.listen(this.port, '0.0.0.0', () => {
       console.log(`La API esta escuchando el el puerto: ${this.port}`)
     })
   }
