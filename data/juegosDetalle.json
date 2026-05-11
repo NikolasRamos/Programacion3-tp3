@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Minecraft",
+    "descripcion": "Minecraft es un mmo rpg no lineal",
+    "genero": "Sandbox"
+  },
+  {
+    "id": 2,
+    "nombre": "Minecraft",
+    "descripcion": "Minecraft es un mmo rpg no lineal",
+    "genero": "Sandbox"
+  },
+  {
+    "id": 3,
+    "nombre": "Minecraft",
+    "descripcion": "Minecraft es un mmo rpg no lineal",
+    "genero": "Sandbox"
+  }
+]
