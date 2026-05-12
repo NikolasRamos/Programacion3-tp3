@@ -12,15 +12,15 @@ class Server {
 
   middleware () {
     this.app.use(cors())
+    this.app.use(express.json())
+    this.app.use(express.urlencoded({ extended: true }))
   }
 
   rutas () {
     this.app.use('/juegos', require('../routes/juegosRoutes'))
 
     // manejo de errores
-    this.app.use((req, res, next) => {
-      return res.status(400).json({ msg: 'Error.' })
-    })
+  
     this.app.use((err, req, res, next) => {
       console.error(err.stack)
       return res.status(404).json({ msg: 'Error. Pagina no encontrada' })
@@ -29,6 +29,10 @@ class Server {
       console.error(err.stack)
       return res.status(500).json({ msg: 'Internal Server Error' })
     })
+
+    this.app.use('/api', require('../routes/loginRoute'))
+
+    this.app.use(express.urlencoded({ extended: true }));
   }
 
   listen () {
