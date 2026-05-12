@@ -1,5 +1,26 @@
 [
-    { "id": 1, "precio": 25, "desc": "Juego" },
-    { "id": 2, "precio": 25, "desc": "Juego" },
-    { "id": 2, "precio": 25, "desc": "Juego" }
+  {
+    "id": 1,
+    "img": "https://image.api.playstation.com/vulcan/ap/rnd/202603/3122/a4defb730333cc78c28f27f47b7d654f8353be50b0dc8050.jpg",
+    "precio": "37$",
+    "nombre": "Minecraft",
+    "descripcion": "Minecraft es un mmo rpg no lineal",
+    "genero": "Sandbox"
+  },
+  {
+    "id": 2,
+    "img": "https://image.api.playstation.com/vulcan/ap/rnd/202603/3122/a4defb730333cc78c28f27f47b7d654f8353be50b0dc8050.jpg",
+    "precio": "37$",
+    "nombre": "Minecraft",
+    "descripcion": "Minecraft es un mmo rpg no lineal",
+    "genero": "Sandbox"
+  },
+  {
+    "id": 3,
+    "img": "https://image.api.playstation.com/vulcan/ap/rnd/202603/3122/a4defb730333cc78c28f27f47b7d654f8353be50b0dc8050.jpg",
+    "precio": "37$",
+    "nombre": "Minecraft",
+    "descripcion": "Minecraft es un mmo rpg no lineal",
+    "genero": "Sandbox"
+  }
 ]
