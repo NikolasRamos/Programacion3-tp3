@@ -46,7 +46,7 @@ https://programacion3-tp3.onrender.com/
 
 ## 🔗 Frontend Deploy (GitHub Pages)
 
-https://nikolasramos.github.io/Programacion3-tp1/index.html
+https://nikolasramos.github.io/Programacion3-tp1/pages/login.html
 
 ---
 
