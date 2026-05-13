@@ -1,0 +1,26 @@
+{
+  "name": "programacion3-tp3",
+  "version": "1.0.0",
+  "description": "- Número de grupo e integrantes.\r - Nombre del proyecto y su descripción.\r - Metodología de trabajo con Git y GitHub.\r - División de los archivos entre los integrantes.\r - Distribución de los archivos y carpetas.\r - Un 90% de las funciones explicadas a detalle.\r - Mínimo un ejemplo de la estructura de cada archivo JSON utilizado (no integrar varios “arrays” en un mismo archivo).\r - Link del deploy en Render.\r - Link al repositorio con el front-end.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolasRamos/Programacion3-tp3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NikolasRamos/Programacion3-tp3/issues"
+  },
+  "homepage": "https://github.com/NikolasRamos/Programacion3-tp3#readme",
+  "dependencies": {
+    "axios": "^1.16.1",
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
