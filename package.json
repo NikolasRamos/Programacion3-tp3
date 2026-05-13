@@ -11,7 +11,7 @@
     "url": "git+https://github.com/NikolasRamos/Programacion3-tp3.git"
   },
   "license": "MIT",
-  "author": "Nikolas Ramos",
+  "author": "Nikolas Ramos, Ramiro Olea, Ivo Castiglia, Gino Marigioli, Federico Luengo, Andres Emiliano Rossi",
   "type": "commonjs",
   "main": "app.js",
   "scripts": {
