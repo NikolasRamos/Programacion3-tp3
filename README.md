@@ -139,7 +139,11 @@ Retorna el listado completo de videojuegos.
 Retorna el detalle de un videojuego específico según su ID.
 
 ---
+##    GET /equipo
 
+Retorna la información del equipo responsable de la página
+
+---
 # 📄 Explicación de Archivos
 
 ---
