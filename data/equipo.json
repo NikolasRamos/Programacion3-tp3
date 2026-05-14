@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ari Gibson",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/2/24/Ari_Gibson.png/revision/latest?cb=20190314205422",
+        "descripcion": "Ari es el pilar creativo detrás de Nexbit. Antes de fundar la tienda, dirigió el estudio de animación Mechanical Apple y participó en innumerables proyectos de cine, videojuegos y vídeos musicales. Ari lleva modificando juegos desde que las pantallas ni siquiera tenían color; su pasión nació con el primer juego que alquiló: Faxanadu para la NES. En Nexbit, se asegura de que cada rincón de la tienda respire esa cultura gamer que tanto ama." 
+    },
+    {
+        "id": 2,
+        "nombre": "William Pellen",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/6/69/William_Pellen.png/revision/latest?cb=20190314205516",
+        "descripcion": "William lleva años diseñando y construyendo mundos digitales, y en Nexbit su misión es crear un entorno único donde los jugadores puedan explorar y descubrir joyas ocultas. Su amor por los videojuegos empezó el día que su padre encontró las botas aladas en Zelda 2. Ahora, busca recrear esa misma sensación de aventura y emoción para cada cliente que confía en nosotros." 
+    },
+    {
+        "id": 3,
+        "nombre": "Jack Vine",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/2/20/Jack_Vine.png/revision/latest?cb=20190314205452",
+        "descripcion": "Jack es el cerebro detrás de la plataforma tecnológica de Nexbit. Se encarga de optimizar nuestros sistemas y de implementar funciones nuevas y emocionantes para que tu experiencia de compra sea impecable. Con una larga trayectoria junto al equipo, Jack fue pieza clave en lanzamientos críticos y en el desarrollo de grandes paquetes de contenido, asegurando que el motor de Nexbit siempre funcione a la máxima potencia." 
+    }
+]
