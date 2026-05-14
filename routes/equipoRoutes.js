@@ -1,5 +1,5 @@
 const { Router } = require('express')
-const { getEquipo} = require('../controllers/juegosController')
+const { getEquipo} = require('../controllers/equipoController')
 
 const rutas = Router()
 
