@@ -30,6 +30,8 @@ class Server {
       return res.status(500).json({ msg: 'Internal Server Error' })
     })
 
+    this.app.use('/api', require('../routes/equipoRoutes'))
+    
     this.app.use('/api', require('../routes/loginRoute'))
 
     this.app.use(express.urlencoded({ extended: true }));
