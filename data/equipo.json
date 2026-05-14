@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ari Gibson",
+        "rol": "Fundador" 
+    },
+    {
+        "id": 2,
+        "nombre": "William Pellen",
+        "rol": "Diseñador" 
+    },
+    {
+        "id": 3,
+        "nombre": "Jack Vine",
+        "rol": "Programador" 
+    }
+]
